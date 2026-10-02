@@ -1,0 +1,11 @@
+spec_version: "0.1.0"
+name: network-port-inventory-checker
+version: 0.1.0
+description: "Checks exposed port inventory for unapproved exposure, a recent inventory date, and owner."
+skills:
+  - network-port-inventory-checker-skill
+tools:
+  - audit-network-port-inventory-checker
+tags:
+  - network-operations
+  - evidence-driven
